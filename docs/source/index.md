@@ -7,13 +7,12 @@ hide-toc: true
 :end-before: <!-- end elevator-pitch -->
 ```
 ```{toctree}
-:caption: Getting Started
-tutorial/index
+:caption: 使う安いもの
+00-frameworker/index
 ```
 ```{toctree}
 :caption: Development
 :hidden:
 :maxdepth: 2
-manual/index
-reference/index
+
 ```

@@ -10,8 +10,8 @@
 project = 'template-intergrated'
 copyright = '2025, brucekomike'
 author = 'brucekomike'
-release = 'v0.2.1'
-language='en'
+release = 'v0.0.1'
+language='ja'
 ## change required <<<
 # 'en' 'jp' 'zh_CN'
 
@@ -77,7 +77,7 @@ html_css_files = [
 ]
 html_theme_options = {
     # github config here,
-    "source_repository": "https://github.com/brucekomike/furo-embeded",
+    "source_repository": "https://github.com/brucekomike/brucekomike.github.io",
     "source_branch": "main",
     "source_directory": "docs/source/",
     # key navigation
@@ -88,9 +88,9 @@ html_theme_options = {
 highlight_language = 'text'
 #html_logo = '_static/logo.svg'
 #html_favicon = '_static/frameworker.svg'
-ogp_site_url = 'https://brucekomike.github.io/furo-embeded/'
+ogp_site_url = 'https://brucekomike.github.io/'
 #ogp_image = '_static/logo.svg'
 #ogp_image_alt = 'site logo'
-ogp_site_name = 'furo template'
+ogp_site_name = '個人の作品集め'
 ogp_use_first_image = True
 ## change required <<<

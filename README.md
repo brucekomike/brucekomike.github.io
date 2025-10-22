@@ -1,10 +1,15 @@
 <!-- start elevator-pitch -->
-# furo template
-a simple sphinx template with furo theme and github actions.
-## quick start
-download [zip file](https://github.com/brucekomike/furo-embeded/archive/refs/heads/main.zip) or dirrect start from this template
+# brucekomike.github.io
+主に個人用のサイトです
+## 自分に関する
+- タイムゾーン : UTF+8
+- 日本語は全てアニメからん学んだんです
+## 自分が制作したもの
+- [汎用BASH脚本骨組み](00-frameworker/index.md)
 
-## steps to fit this template to your needs.
+
+
+<!-- end elevator-pitch -->
 - most source file is located at `source` folder.
 - modify the `conf.py` in `source`
   - credits
@@ -14,8 +19,3 @@ download [zip file](https://github.com/brucekomike/furo-embeded/archive/refs/hea
   - add your own footer links (such as ICP)
 - start content creation
 
-## resources
-- [furo docs](https://pradyunsg.me/furo/)
-- [MyST docs](https://myst-parser.readthedocs.io/)
-- [sphinx docs](https://www.sphinx-doc.org/)
-<!-- end elevator-pitch -->
