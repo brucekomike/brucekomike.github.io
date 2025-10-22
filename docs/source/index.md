@@ -10,6 +10,13 @@ hide-toc: true
 :caption: 使う安いもの
 00-frameworker/index
 ```
+
+```{toctree}
+:caption: 種類別
+50-server/index.md
+55-client/index.md
+```
+
 ```{toctree}
 :caption: Development
 :hidden:

@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 ## change required >>>
-project = 'template-intergrated'
+project = 'personal-site'
 copyright = '2025, brucekomike'
 author = 'brucekomike'
 release = 'v0.0.1'
@@ -70,7 +70,7 @@ exclude_patterns = ['_build', 'build', 'Thumbs.db',
 html_theme = 'furo'
 html_static_path = ['_static']
 ## change required >>>
-html_title = "furo template"
+html_title = "個人の作品集め"
 html_last_updated_fmt = ''
 html_css_files = [
         "footer.css",
