@@ -12,6 +12,6 @@ fi
 
 # Start a new shell with the virtual environment activated
 # Use a subshell to temporarily modify the environment
-bash --rcfile <(echo "source /etc/profile;\
+/usr/bin/env bash --rcfile <(echo "source /etc/profile;\
 source $HOME/.bashrc;\
 source $VENV_NAME/bin/activate")

@@ -4,9 +4,9 @@
 ## 自分に関する
 - タイムゾーン : UTF+8
 - 日本語は全てアニメからん学んだんです
-## 自分が制作したもの
-- [汎用BASH脚本骨組み](00-frameworker/index.md)
-
+## 個人作品おすすめ
+- [Bash脚本フレイムワーク](00-frameworker/index.md)
+- [非テックユーザ向けの自動化ツール](05-RAD/index.md)
 
 
 <!-- end elevator-pitch -->
